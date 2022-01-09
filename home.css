@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-nav{
+    padding-left: 40%;
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    padding-left: 5%;
+    font-size: 2rem;
+}
+.nav-link{
+font-size: 0.9rem;
+}
+
+.nav-link:hover{
+    color: yellow;
+}
+.video{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 8%;
+    padding: 3%;
+}
+.tiles{
+    background-color: black;
+}
+.col-sm{
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    background-color: white;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 20%;
+}
+.tile:hover{
+    background-color: violet;
+}
+.heading{
+    color: white;
+    text-align: center;
+}
+#form{
+    margin-top: -20%;
+    padding: 28%;
+}
+.form-group{
+    padding: 2%;
+    color: white;
+}
+.submit{
+    margin-top: 2%;
+    text-align: center;
+}

@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+.login{
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 3%;
+   
+}
+
+.subhead{
+    text-align: center;
+    color: darkslategrey;
+}
+.navbar-nav{
+    padding-left: 40%;
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    padding-left: 5%;
+    font-size: 2rem;
+}
+.nav-link{
+    font-size: 00.9rem;
+}
+.nav-link:hover{
+    color: yellow;
+}
+
+.head{
+    padding: 5% 7%;
+    font-size: 1.5rem;
+
+}
+.signin{
+    text-align: center;
+margin-top: 3%;
+margin-bottom: 1%;
+color: grey;
+}
+.abc{
+    padding: 0.65%;
+}
+.fab{
+    padding-right: 9%;
+    text-align: center;
+}
+.password{
+    text-align: center;
+    padding-top: 3%;
+}
+.password:hover{
+    color: white;
+}
+.edit{
+    text-align: center;
+}
+#mainbutton{
+   text-align: center;
+}
+.switch{
+    margin: 2%;
+    padding: 1%;
+}
